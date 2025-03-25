@@ -1,7 +1,13 @@
 <h1 align="center">Hey c'est Yanis</h1>
 <h3 align="center">un développeur passionné par les sites web les applications mobiles et le jeux vidéo.</h3>
 
+- 🔭 Je suis actuellement en 2ème année de **BTS SIO**
+
+- 🌱 J'apprend actuellement **Flutter pour les applications mobiles**
+
 - 👨‍💻 Retrouvez tous mes projets sur mon portfolio [portfolio.luyuio.fr](portfolio.luyuio.fr)
+
+- 💬 Je suis à la recherche d'une **Alternance en développement pour mon bachelor 3**
 
 - 📫Me contacter ? **yanisbordin971@gmail.com**
 
